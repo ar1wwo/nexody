@@ -20,7 +20,7 @@ The Spotify Playlist ID
 
 >PLAYLIST_ID = 
 
-Spotify ID and Secret are required, for more info on how to obtain them (https://developer.spotify.com/documentation/web-api)
+Spotify ID and Secret are Required, for More [Info on How to Obtain Them](https://developer.spotify.com/documentation/web-api)
 
 >SPOTIFY_ID = 
 
@@ -30,7 +30,11 @@ SoulSeek User and Password
 
 >SOULSEEK_USER = 
 
->SOULSEEK_PASSWORD = 
+>SOULSEEK_PASSWORD =
+
+[Additional Arguments](https://github.com/fiso64/slsk-batchdl?tab=readme-ov-file#options) to Run During Sldl Execution:
+
+>SLDL_ARGUMENTS =
 
 <br>
 <br>
