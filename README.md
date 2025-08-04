@@ -16,9 +16,9 @@ The Location of the Folder Where the Songs Will be Saved
 
 >LIBRARY_PATH = 
 
-The Spotify Playlist ID
+The Spotify Playlist IDS, to Add Multiple Separate with Comma
 
->PLAYLIST_ID = 
+>PLAYLIST_IDS = 
 
 Spotify ID and Secret are Required, for More [Info on How to Obtain Them](https://developer.spotify.com/documentation/web-api)
 
